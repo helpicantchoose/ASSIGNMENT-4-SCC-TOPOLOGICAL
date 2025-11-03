@@ -1,0 +1,10 @@
+Filename,Vertices,Edges,Num_SCCs,SCC_Time_ns,SCC_DFS_Visits,Topo_Sort_Time_ns,Topo_Sort_Queue_Ops,Shortest_Path_Time_ns,Shortest_Path_Relaxations,Critical_Path_Length,Longest_Path_Time_ns,Longest_Path_Relaxations
+large_cyclic_1.json,40,47,8,800800,80,374700,16,29600,7,70,23700,7
+large_dag_1.json,30,30,30,143400,60,95800,60,107000,29,55,47800,30
+large_dag_dense.json,35,126,35,185900,70,91800,70,88600,62,725,127500,110
+medium_cyclic_1.json,12,15,4,39800,24,13600,8,12400,3,30,5800,3
+medium_cyclic_dense.json,20,68,1,98300,40,8200,2,2100,0,0,1400,0
+medium_dag_1.json,15,18,15,33300,30,21200,30,23400,17,35,17300,18
+small_cyclic_1.json,6,7,1,18100,12,5500,2,2300,0,0,2900,0
+small_dag_1.json,6,8,6,24600,12,14100,12,11800,7,18,11100,6
+small_dense.json,8,20,8,20800,16,12600,16,10500,10,53,14300,14
